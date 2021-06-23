@@ -1,4 +1,4 @@
-# Javascript-Project: Udacity's Introduction to Programming Nano Degree
+# Udacity: Introduction to Programming Nano Degree -Javascript-Project
 
 
 You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas!:
